@@ -27,6 +27,17 @@ Table 1. Evaluation Result on Breast Cancer Dialogue Dataset
 |                | llama3-8b-chinese-chat | 0.201   | 0.035   | 0.109   | 2.582 | 0.627       |
 |                | qwen2.5-7b-instruct    | 0.113   | 0.024   | 0.055   | 1.657 | 0.541       |
 |                | gpt-4-o                | 0.261   | 0.065   | 0.149   | 5.395 | 0.667       |
+| cMedQA-BC      | huatuogpt-2            | 0.055 | 0.006 | 0.040 | 0.620 | 0.505  |
+|                | llama3-8b-chinese-chat | 0.146 | 0.017 | 0.096 | 1.600 | 0.592  |
+|                | qwen2.5-7b-instruct    | 0.152 | 0.021 | 0.091 | 1.913 | 0.608  |
+|                | gpt-4-o                | 0.194 | 0.032 | 0.121 | 3.385 | 0.630  |
+|                | BRAG                   | 0.214 | 0.044 | 0.179 | 4.349 | 0.647  |
+| webMedQA-BC    | huatuogpt-2            | 0.059 | 0.007 | 0.043 | 0.842 | 0.512  |
+|                | llama3-8b-chinese-chat | 0.146 | 0.017 | 0.098 | 2.026 | 0.591  |
+|                | qwen2.5-7b-instruct    | 0.158 | 0.022 | 0.094 | 2.412 | 0.606  |
+|                | gpt-4-o                | 0.197 | 0.033 | 0.121 | 4.037 | 0.625  |
+|                | BRAG                   | 0.174 | 0.034 | 0.144 | 2.909 | 0.626  |
+
 
 Table 2. Evaluation Result on Breast Cancer Exam Dataset
 
