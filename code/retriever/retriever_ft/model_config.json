@@ -1,0 +1,28 @@
+{
+    "epochs": 15,
+    "batch_size": 10,
+    "learning_rate": 1e-4,
+    "max_seq_length": 1024,
+    "checkpoint" : 5,
+    "device": "cuda:0",
+    "optimizer": "SGD",
+    "patience": 5,
+    "train_epochs": 0,
+    "local_model_path": "",
+    "model": {
+        "text_model": "nomic-ai/nomic-embed-text-v1.5",
+        "text_tokenizer": "nomic-ai/nomic-embed-text-v1.5"
+    },
+    "schedualer": {
+        "milestones": [20],
+        "gamma": 0.5
+    },
+    "weight_decay": 0.2,
+    "start_epoch": 0,
+    "start_epoch_timestamp": "",
+    "load_model_dict_path": "",
+    "save_model_dict_path": "",
+    "dataset_path": "",
+    "comment": [
+    ]
+}
