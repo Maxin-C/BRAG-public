@@ -49,3 +49,6 @@ Table 2. Evaluation Result on Breast Cancer Exam Dataset
 | Qwen2.5-7B-Instruct    | 0.35                 | 0.44   | 0.37 | 0.3                | 0.49   | 0.33 | 0.41      |
 | GPT-4-o                | 0.73                 | 0.54   | 0.69 | 0.68               | 0.45   | 0.64 | 0.81      |
 | Breast-CRAG            | 0.65                 | 0.54   | 0.63 | 0.56               | 0.37   | 0.52 | 0.81      |
+
+# Paper
+Our pre-print paper can be accessed at http://ssrn.com/abstract=5052341
